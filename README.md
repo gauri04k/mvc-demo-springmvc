@@ -158,9 +158,9 @@ mvn spring-boot:run
 
 After starting the server, open:
 
-```text
+
 http://localhost:8080
-```
+
 
 ---
 
@@ -170,27 +170,19 @@ Add screenshots here for a more professional repository:
 
 ### Home Page
 
-```text
-screenshots/home-page.png
-```
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9bf844d2-3156-46ab-8c37-c5691c256661" />
 
 ### Registration Page
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9ea1b4e4-9632-4ca0-92b5-220d4e574a12" />
 
-```text
-screenshots/register-page.png
-```
 
 ### Login Page
 
-```text
-screenshots/login-page.png
-```
+<img width="1920" height="1080" alt="Screenshot (1824)" src="https://github.com/user-attachments/assets/fe627245-6bec-4c2b-bbd4-3fef59db6259" />
 
-### Dashboard / Home Screen
+### Index page
 
-```text
-screenshots/dashboard.png
-```
+<img width="1920" height="1080" alt="Screenshot (1823)" src="https://github.com/user-attachments/assets/964c3d31-8925-4e80-84d1-2bd52e9514fe" />
 
 ---
 
